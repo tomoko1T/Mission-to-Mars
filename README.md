@@ -4,13 +4,12 @@
 This project is to automate a web browser to scrape, or extract, data about the National Aeronautics and Space Administration (NASA) Mars exploration.  Instead of manually collecting and formatting the data, web scraping automates the process and eliminate the time consuming tasks of extracting online data for analysis.  The analysis consists of two parts as follows:  
 
  Part 1: Scrape titles and preview text from Mars news articles. The data is exported into a MongoDB database.
+  
+  Part 1 code is found [GitHub Pages](https://github.com/tomoko1T/Mission-to-Mars/blob/main/mars_data_challenge_part_1.ipynb)
  
  Part 2: Scrape and analyze Mars weather data, which exists in a table.
-
-
-Part 1 is found [GitHub Pages](https://github.com/tomoko1T/Mission-to-Mars/blob/main/mars_data_challenge_part_1.ipynb)
-
-Part 2 is found [GitHub Pages](https://github.com/tomoko1T/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb)
+ 
+  Part 2 code is found [GitHub Pages](https://github.com/tomoko1T/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb), and the csv data is found [GitHub Pages](https://github.com/tomoko1T/Mission-to-Mars/blob/main/results/mars_temp.csv)
 
 ## Part 2: Answers based on the result.
 
@@ -36,3 +35,5 @@ Part 2 is found [GitHub Pages](https://github.com/tomoko1T/Mission-to-Mars/blob/
     
     A: Based on the chart, it's approxmately 625 days.    
 ![This is an image](https://github.com/tomoko1T/Mission-to-Mars/blob/main/results/earth_days.png)  
+
+
